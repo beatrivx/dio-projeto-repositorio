@@ -175,14 +175,3 @@ list-style-image: url("foto.png");
 **margin:** espaçamento entre elementos, serve para alinhar o elemento automaticamente
 
 **text-align:** alinha textos, right, left, center e justify
-
-
-
-
-
-
-
-
-
-
-
