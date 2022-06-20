@@ -4,3 +4,4 @@ Repositório criado para o Desafio de Projeto sobre Git e Github, contendo anota
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/)
 [Web Development](https://developer.mozilla.org/en-US/)
+[W3 Schools](https://www.w3schools.com/)
